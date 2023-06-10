@@ -15,6 +15,7 @@ No matter what AI brings to the table we all want to be better developers.  Join
 
 ## Outline
 - Compiler settings to get the most from your compiler speaking to you.
+    - Are you using -Wall -Wwarn -Werrors
 - Compare a few older errors to newer ones for history
     - Based on Compiler/Standard 11/14/17/20
 - Review compiler errors and warnings

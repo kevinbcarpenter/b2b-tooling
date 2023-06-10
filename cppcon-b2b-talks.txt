@@ -1,0 +1,487 @@
+2021
+
+1
+
+1:03:58
+NOW PLAYING
+Back to Basics: Move Semantics - Nicolai Josuttis - CppCon 2021
+
+CppCon
+•
+48K views • 1 year ago
+
+2
+
+1:04:51
+NOW PLAYING
+Back To Basics: Overload Resolution - CppCon 2021
+
+CppCon
+•
+10K views • 1 year ago
+
+3
+
+1:01:35
+NOW PLAYING
+Back to Basics: const and constexpr - Rainer Grimm - CppCon 2021
+
+CppCon
+•
+20K views • 1 year ago
+
+4
+
+1:02:07
+NOW PLAYING
+Back To Basics: Undefined Behavior - Ansel Sermersheim & Barbara Geller - CppCon 2021
+
+CppCon
+•
+10K views • 1 year ago
+
+5
+
+59:54
+NOW PLAYING
+Back to Basics: Object-Oriented Programming - Rainer Grimm - CppCon 2021
+
+CppCon
+•
+13K views • 1 year ago
+
+6
+
+1:05:21
+NOW PLAYING
+Back to Basics: Lambdas - Nicolai Josuttis - CppCon 2021
+
+CppCon
+•
+20K views • 1 year ago
+
+7
+
+1:03:19
+NOW PLAYING
+Back to Basics: Compiling and Linking - Ben Saks - CppCon 2021
+
+CppCon
+•
+31K views • 1 year ago
+
+8
+
+1:00:46
+NOW PLAYING
+Down the Rabbit Hole: An Exploration of Stack Overflow Questions - Marshall Clow - CppCon 2021
+
+CppCon
+•
+14K views • 1 year ago
+
+9
+
+1:01:03
+NOW PLAYING
+Back to Basics: Designing Classes (part 1 of 2) - Klaus Iglberger - CppCon 2021
+
+CppCon
+•
+63K views • 1 year ago
+
+10
+
+1:02:25
+NOW PLAYING
+Back to Basics: Designing Classes (part 2 of 2) - Klaus Iglberger - CppCon 2021
+
+CppCon
+•
+26K views • 1 year ago
+
+11
+
+1:00:20
+NOW PLAYING
+Back to Basics: Pointers - Mike Shah - CppCon 2021
+
+CppCon
+•
+15K views • 1 year ago
+
+12
+
+1:02:07
+NOW PLAYING
+Back to Basics: Concurrency - Mike Shah - CppCon 2021
+
+CppCon
+•
+23K views • 1 year ago
+
+13
+
+1:01:12
+NOW PLAYING
+Back to Basics: Templates (part 1 of 2) - Bob Steagall - CppCon 2021
+
+CppCon
+•
+29K views • 1 year ago
+
+14
+
+1:07:29
+NOW PLAYING
+Back to Basics: Templates (part 2 of 2) - Bob Steagall - CppCon 2021
+
+CppCon
+•
+10K views • 1 year ago
+
+15
+
+1:02:15
+NOW PLAYING
+Back To Basics: The Special Member Functions - Klaus Iglberger - CppCon 2021
+
+CppCon
+•
+14K views • 1 year ago
+
+16
+
+1:01:31
+NOW PLAYING
+Back to Basics: Classic STL - Bob Steagall - CppCon 2021
+
+CppCon
+•
+17K views • 1 year ago
+
+17
+
+45:26
+NOW PLAYING
+Back to Basics: Casting - Brian Ruth - CppCon 2021
+
+CppCon
+•
+9.6K views • 1 year ago
+
+18
+
+1:04:52
+NOW PLAYING
+Back To Basics: Debugging Techniques - Bob Steagall - CppCon 2021
+
+CppCon
+•
+14K views • 1 year ago
+
+19
+
+50:16
+NOW PLAYING
+Back to Basics: Smart Pointers and RAII - Inbal Levi - CppCon 2021
+
+CppCon
+•
+11K views • 1 year ago
+
+20
+
+55:09
+NOW PLAYING
+Back to Basics: Algorithmic Complexity - Amir Kirsh & Adam Segoli Schubert - CppCon 2021
+
+CppCon
+•
+7.6K views • 1 year ago
+
+
+
+2020
+
+1
+
+NOW PLAYING
+Back to Basics: The Abstract Machine - Bob Steagall - CppCon 2020
+
+CppCon
+•
+52K views • 2 years ago
+
+2
+
+1:01:37
+NOW PLAYING
+Back to Basics: The Structure of a Program - Bob Steagall - CppCon 2020
+
+CppCon
+•
+46K views • 2 years ago
+
+3
+
+1:00:27
+NOW PLAYING
+Back to Basics: Class Layout - Stephen Dewhurst - CppCon 2020
+
+CppCon
+•
+34K views • 2 years ago
+
+4
+
+1:00:56
+NOW PLAYING
+Back to Basics: Pointers and Memory - Ben Saks - CppCon 2020
+
+CppCon
+•
+37K views • 2 years ago
+
+5
+
+1:04:45
+NOW PLAYING
+Back to Basics: Templates (part 1 of 2) - Andreas Fertig - CppCon 2020
+
+CppCon
+•
+28K views • 2 years ago
+
+6
+
+1:03:10
+NOW PLAYING
+Back to Basics: Templates (part 2 of 2) - Andreas Fertig - CppCon 2020
+
+CppCon
+•
+10K views • 2 years ago
+
+7
+
+1:01:19
+NOW PLAYING
+Back To Basics: Lambda Expressions - Barbara Geller & Ansel Sermersheim - CppCon 2020
+
+CppCon
+•
+14K views • 2 years ago
+
+8
+
+1:01:56
+NOW PLAYING
+Back to Basics: Unit Tests - Ben Saks - CppCon 2020
+
+CppCon
+•
+30K views • 2 years ago
+
+9
+
+1:10:15
+NOW PLAYING
+Back to Basics: Algebraic Data Types - Arthur O'Dwyer - CppCon 2020
+
+CppCon
+•
+21K views • 2 years ago
+
+10
+
+1:07:26
+NOW PLAYING
+Back to Basics: Smart Pointers - Rainer Grimm - CppCon 2020
+
+CppCon
+•
+27K views • 2 years ago
+
+11
+
+48:15
+NOW PLAYING
+Back to Basics: Design Patterns - Mike Shah - CppCon 2020
+
+CppCon
+•
+36K views • 2 years ago
+
+12
+
+59:08
+NOW PLAYING
+Back to Basics: Move Semantics - David Olsen - CppCon 2020
+
+CppCon
+•
+23K views • 2 years ago
+
+13
+
+1:01:45
+NOW PLAYING
+Back to Basics: Exceptions - Klaus Iglberger - CppCon 2020
+
+CppCon
+•
+21K views • 2 years ago
+
+14
+
+1:04:28
+NOW PLAYING
+Back to Basics: Concurrency - Arthur O'Dwyer - CppCon 2020
+
+CppCon
+•
+83K views • 2 years ago
+
+
+2019
+
+1
+
+NOW PLAYING
+Back to Basics: Object-Oriented Programming - Jon Kalb - CppCon 2019
+
+CppCon
+•
+44K views • 3 years ago
+
+2
+
+1:03:12
+NOW PLAYING
+Back to Basics: Function and Class Templates - Dan Saks - CppCon 2019
+
+CppCon
+•
+62K views • 3 years ago
+
+3
+
+1:02:18
+NOW PLAYING
+Back to Basics: RAII and the Rule of Zero - Arthur O'Dwyer - CppCon 2019
+
+CppCon
+•
+66K views • 3 years ago
+
+4
+
+49:16
+NOW PLAYING
+Back to Basics: Type Erasure - Arthur O'Dwyer - CppCon 2019
+
+CppCon
+•
+31K views • 3 years ago
+
+5
+
+1:02:17
+NOW PLAYING
+CppCon 2019: Ben Deane “Everyday Efficiency: In-Place Construction (Back to Basics?)”
+
+CppCon
+•
+14K views • 3 years ago
+
+6
+
+1:01:30
+NOW PLAYING
+CppCon 2019: Ben Saks “Back to Basics: Exception Handling and Exception Safety”
+
+CppCon
+•
+14K views • 3 years ago
+
+7
+
+52:09
+NOW PLAYING
+Back to Basics: Lambdas from Scratch - Arthur O'Dwyer - CppCon 2019
+
+CppCon
+•
+64K views • 3 years ago
+
+8
+
+1:00:51
+NOW PLAYING
+CppCon 2019: Arthur O'Dwyer “Back to Basics: Smart Pointers”
+
+CppCon
+•
+63K views • 3 years ago
+
+9
+
+53:48
+NOW PLAYING
+Back to Basics: Understanding Value Categories - Ben Saks - CppCon 2019
+
+CppCon
+•
+26K views • 3 years ago
+
+10
+
+53:49
+NOW PLAYING
+Back to Basics: Move Semantics (part 2 of 2) - Klaus Iglberger - CppCon 2019
+
+CppCon
+•
+36K views • 3 years ago
+
+11
+
+1:01:03
+NOW PLAYING
+Back to Basics: Test-driven Development - Fedor Pikus - CppCon 2019
+
+CppCon
+•
+14K views • 3 years ago
+
+12
+
+1:01:34
+NOW PLAYING
+Back to Basics: Const as a Promise - Dan Saks - CppCon 2019
+
+CppCon
+•
+17K views • 3 years ago
+
+13
+
+55:17
+NOW PLAYING
+Back to Basics: Move Semantics (part 1 of 2) - Klaus Iglberger - CppCon 2019
+
+CppCon
+•
+91K views • 3 years ago
+
+14
+
+40:13
+NOW PLAYING
+Back to Basics: Virtual Dispatch and its Alternatives - Inbal Levi - CppCon 2019
+
+CppCon
+•
+18K views • 3 years ago
+

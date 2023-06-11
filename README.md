@@ -1,11 +1,11 @@
-# Back 2 Basics - Tooling to be a better developer
+# Back 2 Basics - Tooling intuition to be a better developer
 
 - Alternative titles
-    - Learning from your compiler and tools.
-    - Your tools can be your teacher!
+    - Intuition from your compiler and tools.
+    - Your tools provide intuition!
 
 ## Abstract
-Many people are excited or terrified for AI when it comes to software development.  However over the years the tools we use to develop have improved significantly. It used to be a the compiler could barely tell us we were missing a semicolon, now it will tell us the exact location.  The results from compilers has improved but are we doing all we can with them?  Do you always understand what they are saying?  
+Many people are excited or terrified about how AI may change software development.  However over the years the tools we use to develop have improved significantly. It used to be a the compiler could barely tell us we were missing a semicolon, now it will tell us the exact location.  The results from compilers has improved but are we doing all we can with them?  Do you always understand what they are saying?  
 
 In this talk we will review just how much they have.  We will look at the common tools we use every day in our compilers and static analysis and work through some of the common and edge case errors.  We will pull apart items that are either code specific or linker specific and how to tell the difference.  Then we will look at static analysis and learn how we can use these tools to improve ourselves as developer.  
 
@@ -30,6 +30,7 @@ No matter what AI brings to the table we all want to be better developers.  Join
 - show examples of setting up clang tidy
 - cross platform windows/mac/linux
 
+
 ### Things Needed
 - find a way to review the most common items from the three platforms and msc/gcc/clang?
 - can I get a list of github projects and stats and auto pull them with an api and try to build them to see errors or results and then record that data out?
@@ -49,3 +50,19 @@ CppCon•14K views • 1 year ago
 1:04:52
 Back To Basics: Debugging Techniques - Bob Steagall - CppCon 2021
 CppCon•14K views • 1 year ago
+
+
+### Stack Overflow Links/Research
+https://stackoverflow.com/questions/tagged/undefined-reference
+https://stackoverflow.com/questions/tagged/linker-errors
+https://stackoverflow.com/questions/tagged/unresolved-external
+
+https://api.stackexchange.com
+
+
+
+### Notes
+Under stress, the brain is gathering and processing many facts, much of which is happening outside of awareness. These facts, formed into patterns, are then sent into high brain processing areas and compared to past experiences. When you get that “gut feeling” you are benefiting from intuition – a pattern match.
+
+Reasoning vs Intution
+https://iai.tv/articles/intuition-vs-reason-auid-790

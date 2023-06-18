@@ -1,0 +1,9 @@
+{
+    "dumps": {
+        "on": true,
+        "location": "dumps"
+    },
+    "logs": {
+        "location": "logs"
+    }
+}

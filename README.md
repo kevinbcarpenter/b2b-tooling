@@ -1,8 +1,9 @@
-# Back 2 Basics - Tooling intuition to be a better developer
+# Back 2 Basics - Tooling Intuition
 
 - Alternative titles
     - Intuition from your compiler and tools.
     - Your tools provide intuition!
+    - Tooling intuition to be a better developer
 
 ## Abstract
 Many people are excited or terrified about how AI may change software development.  However over the years the tools we use to develop have improved significantly. It used to be a the compiler could barely tell us we were missing a semicolon, now it will tell us the exact location.  The results from compilers has improved but are we doing all we can with them?  Do you always understand what they are saying?  
@@ -16,6 +17,7 @@ No matter what AI brings to the table we all want to be better developers.  Join
 ## Outline
 - Compiler settings to get the most from your compiler speaking to you.
     - Are you using -Wall -Wwarn -Werrors
+    - Clang Tidy for Linux/Mac
 - Compare a few older errors to newer ones for history
     - Based on Compiler/Standard 11/14/17/20
 - Review compiler errors and warnings
@@ -66,3 +68,6 @@ Under stress, the brain is gathering and processing many facts, much of which is
 
 Reasoning vs Intution
 https://iai.tv/articles/intuition-vs-reason-auid-790
+
+Using MSVC from Command Line
+https://learn.microsoft.com/en-us/cpp/build/building-on-the-command-line?view=msvc-160

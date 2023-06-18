@@ -5,8 +5,15 @@
     - Your tools provide intuition!
     - Tooling intuition to be a better developer
 
+## Submission Details
+**Tags**: Errors, Tools, B2B, Back to Basics, cpp17, cpp20, cpp23  
+**Session Type**: Back to Basic 
+**Level**: Beginner
+**Audience**: application developers, library authors 
+**Session Material**: slides, example code  
+
 ## Abstract
-Over the years the tools we use to develop have improved significantly. It used to be the compiler could barely tell us we were missing a semicolon, now it will tell us the exact location.  The results from compilers have improved but are we doing all we can with them?  Do you always understand what they are saying?  
+Over the years the tools we use to develop have improved significantly. It used to be the compiler that could barely tell us we were missing a semicolon, now it will tell us the exact location.  The results from compilers have improved but are we doing all we can with them?  Do you always understand what they are saying?  
 
 In this talk we will review the improvements by reading their output.  We will look at the common tools we use every day in our compilers and static analysis and work through some of the common and edge case errors.  We will pull apart items that are either code specific or linker specific and how to tell the difference.  Then we will look at static analysis and learn how we can use these tools to improve our development process.  
 

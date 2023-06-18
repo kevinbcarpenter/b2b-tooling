@@ -6,20 +6,22 @@
     - Tooling intuition to be a better developer
 
 ## Abstract
-Many people are excited or terrified about how AI may change software development.  However over the years the tools we use to develop have improved significantly. It used to be a the compiler could barely tell us we were missing a semicolon, now it will tell us the exact location.  The results from compilers has improved but are we doing all we can with them?  Do you always understand what they are saying?  
+Over the years the tools we use to develop have improved significantly. It used to be the compiler could barely tell us we were missing a semicolon, now it will tell us the exact location.  The results from compilers have improved but are we doing all we can with them?  Do you always understand what they are saying?  
 
-In this talk we will review just how much they have.  We will look at the common tools we use every day in our compilers and static analysis and work through some of the common and edge case errors.  We will pull apart items that are either code specific or linker specific and how to tell the difference.  Then we will look at static analysis and learn how we can use these tools to improve ourselves as developer.  
+In this talk we will review the improvements by reading their output.  We will look at the common tools we use every day in our compilers and static analysis and work through some of the common and edge case errors.  We will pull apart items that are either code specific or linker specific and how to tell the difference.  Then we will look at static analysis and learn how we can use these tools to improve our development process.  
 
-We will use a cross platform (Windows, Mac, Linux) project to explore best practices for settings in regards to warnings, errors, and static analysis and how to make the best use of them.  Understand some of the trickier items (compiler syntas issue, template errors vs linker) and how to improve our use overall.
+We will use a cross platform (Windows, Mac, Linux) project to explore best practices for settings regarding warnings, errors, static analysis and how to make the best use of them.  Understand some of the trickier items and how to improve our use overall.
 
-No matter what AI brings to the table we all want to be better developers.  Join us in this talk where we will learn to make better use of the tools we have to do just that.
+Join us in this talk where we will learn to make better use of the tools, by building our int.
+
 
 ## Outline
 - Compiler settings to get the most from your compiler speaking to you.
     - Are you using -Wall -Wwarn -Werrors
-    - Clang Tidy for Linux/Mac
+    - Clang Tidy for Linux/Mac/Windows
+        - Microsoft Code Analysis
 - Compare a few older errors to newer ones for history
-    - Based on Compiler/Standard 11/14/17/20
+    - Based on Compiler/Standard 11/14/17/20/23
 - Review compiler errors and warnings
     - why they matter, how to fix.
 - Review linker errors

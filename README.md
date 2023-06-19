@@ -6,11 +6,11 @@
     - Tooling intuition to be a better developer
 
 ## Submission Details
-**Tags**: Errors, Tools, B2B, Back to Basics, cpp17, cpp20, cpp23  
-**Session Type**: Back to Basic 
-**Level**: Beginner
-**Audience**: application developers, library authors 
-**Session Material**: slides, example code  
+**Tags**: Errors, Tools, B2B, Back to Basics, cpp17, cpp20, cpp23 <br />
+**Session Type**: Back to Basic<br />
+**Level**: Beginner<br />
+**Audience**: application developers, library authors<br />
+**Session Material**: slides, example code  <br />
 
 ## Abstract
 Over the years the tools we use to develop have improved significantly. It used to be the compiler that could barely tell us we were missing a semicolon, now it will tell us the exact location.  The results from compilers have improved but are we doing all we can with them?  Do you always understand what they are saying?  
@@ -50,26 +50,21 @@ Join us in this talk where we will learn to make better use of the tools, by bui
 
 
 ### Previous Year Talks
-1:03:19
-Back to Basics: Compiling and Linking - Ben Saks - CppCon 2021
-CppCon•31K views • 1 year ago
+Back to Basics: Compiling and Linking - Ben Saks - CppCon 2021<br />
+CppCon•31K views<br />
 
-1:00:46
-Down the Rabbit Hole: An Exploration of Stack Overflow Questions - Marshall Clow - CppCon 2021
-CppCon•14K views • 1 year ago
+Down the Rabbit Hole: An Exploration of Stack Overflow Questions - Marshall Clow - CppCon 2021<br />
+CppCon•14K views<br />
 
-1:04:52
-Back To Basics: Debugging Techniques - Bob Steagall - CppCon 2021
-CppCon•14K views • 1 year ago
+Back To Basics: Debugging Techniques - Bob Steagall - CppCon 2021<br />
+CppCon•14K views<br />
 
 
 ### Stack Overflow Links/Research
-https://stackoverflow.com/questions/tagged/undefined-reference
-https://stackoverflow.com/questions/tagged/linker-errors
-https://stackoverflow.com/questions/tagged/unresolved-external
-
-https://api.stackexchange.com
-
+https://stackoverflow.com/questions/tagged/undefined-reference<br />
+https://stackoverflow.com/questions/tagged/linker-errors<br />
+https://stackoverflow.com/questions/tagged/unresolved-external<br />
+https://api.stackexchange.com<br />
 
 
 ### Notes

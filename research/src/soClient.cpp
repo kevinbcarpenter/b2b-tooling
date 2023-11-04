@@ -31,12 +31,17 @@ auto testGet(httplib::SSLClient &cli) -> json {
                        "advanced?order=desc&sort=votes&tagged=undefined-"
                        "reference&site=stackoverflow");
 
-    if (res->status == 200 && !res->body.empty()) {
-      std::cout << "GET/LIST - Status: " << res->status << std::endl;
-      // << "Body: " << res->body << std::endl;
-      trans = json::parse(res->body);
+    if (res->status == 200) {
+      if (!res->body.empty()) {
+        std::cout << "GET/LIST - Status: " << res->status << std::endl
+                  << "Body: " << res->body << std::endl;
+        trans = json::parse(res->body);
+      } else {
+        std::cout << "Error: empty body..." << std::endl;
+      }
+
     } else {
-      std::cout << "Error" << std::endl;
+      std::cout << "Error 200 result empty body." << std::endl;
     }
 
   } catch (std::exception &ex) {
